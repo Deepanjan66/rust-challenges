@@ -1,6 +1,6 @@
 # rust-challenges
 
-These repository contains solution implementations of Rust challenge problems as set out in Stanford's cs140e course.
+This repository contains solution implementations of Rust challenge problems as set out in Stanford's cs140e course.
 Some of these challenges are quite trivial whereas others really challenge your understanding of the language. Going through
 these exercise implementations gave me enough confidence to move on to writing non-trivial rust programs.
 
